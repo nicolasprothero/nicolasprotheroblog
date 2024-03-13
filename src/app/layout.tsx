@@ -57,8 +57,8 @@ export default function RootLayout({
       return (
         <div className="w-72">
           <Link href={`/posts/${slug}`}>
-            <div className="flex flex-row text-xs m-2">
-              <u className="pr-2 w-52">{metadata.title}</u>
+            <div className="flex flex-row text-xs m-2 opacity-50 hover:text-blue-600 hover:opacity-100">
+              <p className="pr-2 w-52">{metadata.title}</p>
               <p>{metadata.dateString}</p>
             </div>
           </Link>
@@ -92,6 +92,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="fixed">
           {header}
+          <p className="Times m-2 text-xs">2024</p>
           <h1 className='Times'>{postPreview}</h1>
           {footer}
         </div>

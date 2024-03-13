@@ -16,7 +16,7 @@ const PostPage = (props: any) => {
     return (
         <div>
             <div className="w-full flex justify-center font-sometype">
-                <div className="w-1/2 mt-20 mb-20">
+                <div className="mt-20 mb-20 w-2/3">
                     <Markdown className="prose text-xs m-auto">{content}</Markdown>
                 </div>
             </div>
