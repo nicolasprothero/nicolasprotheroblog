@@ -22,3 +22,4 @@ Last year, I was proud with the amount of books I had read, but thought that I c
 | 03/04    | *Normal People*                   | Sally Rooney                   | ★★★☆☆                         |
 | 03/12    | *The Four Books*                  | Yan Lianke                     | ★★★★★                         |
 | READING  | *WWTA When We Talk About Love*    | Raymond Carver                 |                               |
+| READING  | *Dream of Ding Village*           | Yan Lianke                     |                               |

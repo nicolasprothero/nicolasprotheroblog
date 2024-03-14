@@ -6,6 +6,8 @@ date: 2024-03-12
 
 ## My Opinions on my Own Art
 
+![images/sketchbook](/images/sketchbook.png)
+
 I am not an artist.
 
 I used to confuse myself with one.
