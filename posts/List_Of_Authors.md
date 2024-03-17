@@ -38,3 +38,11 @@ date: 2024-03-13
 |                  | *Nocturnes*                                     |            |
 |                  | *The Buried Giant*                              |            |
 |                  | *Klara and the Sun*                             | YES        |
+
+## Authors to Read Through
+
+Franz Kafka
+
+Albert Camus
+
+Kurt Vonnegut
