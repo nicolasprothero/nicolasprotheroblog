@@ -11,6 +11,10 @@ const config: Config = {
       fontFamily: {
         'sometype': ["Sometype Mono", 'monospace'],
       },
+      height: {
+        '128': '32rem',
+        '144': '36rem',
+      }
     },
   },
   plugins: [require('@tailwindcss/typography')],

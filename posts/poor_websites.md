@@ -6,6 +6,11 @@ date: 2024-03-02
 
 # In Defense of the Poor Website
 
+2024-03-02
+
+![images/shadow](/images/Shadow.jpg)
+
+
 The poor website is information that lives on the web. It can be designed poorly - or not designed at all. It’s content and the internet’s accessibility are the driving factors behind its existence. The poor website is not spread using algorithms, or hosted on a social media platform. It is hidden among the billions of other websites unless an individual knows its URL and willingly enters it into a browser’s search bar. The poor website is independently created, the author is also the editor, the designer, and the developer. It is a product that benefits from living on the web rather than on any other medium.
 
 A poor website can simply be columns of black text in the browsers default font, with the occasional underlined blue hyperlinks scattered within it. It can be a collection of ones meditations, an artistic manifesto, or even just nonsensical word clutter that now lives digitally. It can be a single page website, with all of its information located in one HTML file, or a sprawling collection subpages that link each other like nodes in a tree. 

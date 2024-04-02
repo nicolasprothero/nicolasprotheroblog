@@ -1,10 +1,12 @@
 ---
-title: ooparts
+title: The Here Now and Never
 tags: []
 date: 2024-02-28
 ---
 
-## ooparts
+# The Here Now and Never
+
+2024-02-28
 
 ![images/imageburn](/images/000375010001.JPG)
 
